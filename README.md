@@ -1,8 +1,5 @@
 ### Hi there 👋
-<! -- Contatos -->
-<a href="<https://www.linkedin.com/in/j%C3%A9ssica-idro-15862513b/>">
-  <img align="left" alt="Linkedin Jéssica" widht="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />
-</a>
+
 <!--
 **jessicaidro/jessicaidro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
