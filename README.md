@@ -1,5 +1,7 @@
 ## Olá! 
-<p> Sou a Jéssica Idro, me formei em Analise e Desenvolvimento de Sistema pelo IFSP e Design Gráfico pela UNIP, atualmente trabalho como QA na empresa Cadmus Soluções em TI
+<p> 👱🏼‍♀️ Me chamo Jéssica Idro, sou formada em Análise e Desenvolvimento de Sistemas pelo IFSP e Design Gráfico pela UNIP
+<br>
+💻 Atualmente trabalho como QA na empresa Cadmus Soluções em TI
 </p>
 <div style="display: inline_block">
 	<b>Estou estudando...</b>
