@@ -1,7 +1,7 @@
 ## Olá! 
 <p> 👱🏼‍♀️ Me chamo Jéssica Idro, sou formada em Análise e Desenvolvimento de Sistemas pelo IFSP e Design Gráfico pela UNIP
 <br>
-💻 QA na <a href="https://cadmus.com.br/">Cadmus Soluções em TI</a> 
+💻 QA na <a href="https://projectdome.com.br/">Project Dome</a> 
 </p>
 <div style="display: inline_block">
 	<b>Skils</b>
@@ -22,7 +22,7 @@
 	<b>Contato</b>
 	<br>
 	<a href="https://www.linkedin.com/in/j%C3%A9ssica-idro-15862513b/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://twitter.com/jessicaidro"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+	
 	<br><br>
 </div>
 
